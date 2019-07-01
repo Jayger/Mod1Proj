@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 3) do
     t.string "anime"
   end
 
-  create_table "rosters", force: :cascade do |t|
+  create_table "duos", force: :cascade do |t|
     t.string "name"
     t.integer "user_id"
     t.integer "anime_char_id"

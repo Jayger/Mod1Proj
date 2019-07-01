@@ -1,5 +1,22 @@
 require_relative '../config/environment'
 
 
+run
 
-puts "HELLO WORLD"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
